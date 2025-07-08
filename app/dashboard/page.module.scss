@@ -1,0 +1,12 @@
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+    background-color: var(--primary-color);
+
+    .welcomeText {
+         font-size: 36px;
+         color: white;
+    }
+}
